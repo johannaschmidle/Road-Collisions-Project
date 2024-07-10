@@ -1,5 +1,9 @@
 # Road Collisions Analysis
 Analyzing ... from ...-... . 
+   
+<p align="center">
+    <img src="AccidentDashSC.png" alt="Excel Dashboard" width="900">
+</p>
 
 ## Motivation
 **Goal:**
@@ -8,10 +12,6 @@ Analyzing ... from ...-... .
 1. 1
 2. 2
 3. 3
-   
-<p align="center">
-    <img src="AccidentDashSC.png" alt="Excel Dashboard" width="900">
-</p>
 
 ## Metrics and Dimensions
 
