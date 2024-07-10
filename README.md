@@ -10,7 +10,7 @@ Analyzing ... from ...-... .
 3. 3
    
 <p align="center">
-    <img src="" alt="Excel Dashboard" width="900">
+    <img src="AccidentDashSC.png" alt="Excel Dashboard" width="900">
 </p>
 
 ## Metrics and Dimensions
