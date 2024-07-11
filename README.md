@@ -9,15 +9,17 @@ Analyzing
 **Goal:**
 
 ## Task List
-1. 1
-2. 2
-3. 3
+1. Clean Database
+2. Create Dashboard
 
 ## Metrics and Dimensions
-
+- Total number of accidents
+  
 ## Summary of Insights
-
+- hi
+  
 ## Data
-The dataset used in this project is available publicly on Kaggle: [https://www.kaggle.com/datasets/NUFORC/ufo-sightings](https://www.kaggle.com/datasets/NUFORC/ufo-sightings)
+The dataset used in this project is available publicly on Kaggle: [https://www.kaggle.com/datasets/nezukokamaado/road-accident-casualties-dataset](https://www.kaggle.com/datasets/nezukokamaado/road-accident-casualties-dataset)
 
 ## Technologies
+- Excel
