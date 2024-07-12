@@ -1,3 +1,4 @@
+Understanding Accident Severity for Effective Road Management
 # Road Collisions Analysis (2019 - 2022)
 Road accident dashboard for years 2019 - 2022 in the UK.
    
@@ -6,7 +7,7 @@ Road accident dashboard for years 2019 - 2022 in the UK.
 </p>
 
 ## Motivation
-**Goal:** gain insight into 
+**Goal:**  Gain insights into the patterns and trends of road accidents in the UK from 2019 to 2022 to inform policy-making and improve road safety.   
 
 ## Task List
 1. Clean Database
@@ -14,6 +15,15 @@ Road accident dashboard for years 2019 - 2022 in the UK.
 
 ## Metrics and Dimensions
 - Total number of accidents
+- Total casualties post-accident
+- Accidents and percentage of total with respect to accident severity
+- Maximum accidents by type of vehicle
+- Total accidents with respect to vehicle type
+- Monthly trend showing comparison of accidents for current year and previous year
+- Maximum casualties by road type
+- Accidents by day/night
+- Distribution of total casualties by road surface
+- Relationship between casualties by area/location and by day/night
   
 ## Summary of Insights
 - hi
