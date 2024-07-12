@@ -8,7 +8,6 @@ Road accident dashboard for years 2019 - 2022 in the UK.
 
 ## Motivation
 **Goal:**  Gain insights into the patterns and trends of road accidents in the UK from 2019 to 2022 to inform policy-making and improve road safety.   
-This Could be useful for ___
 
 ## Task List
 1. Clean Database
