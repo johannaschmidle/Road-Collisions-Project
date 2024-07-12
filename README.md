@@ -1,12 +1,12 @@
 # Road Collisions Analysis (2019 - 2022)
-Analyzing 
+Road accident dashboard for years 2019 - 2022 in the UK.
    
 <p align="center">
     <img src="AccidentDashSC.png" alt="Excel Dashboard" width="900">
 </p>
 
 ## Motivation
-**Goal:**
+**Goal:** gain insight into 
 
 ## Task List
 1. Clean Database
