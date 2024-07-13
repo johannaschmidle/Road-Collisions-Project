@@ -25,36 +25,39 @@ Understanding Accident Severity for Effective Road Management.
 - Relationship between accidents by area/location and by day/night
   
 ## Summary of Insights
-#### Total Accidents
-- There are 660,679 accidents in this database
   
 #### Accident Severity
-- Most accidents are only slight _accidents_ (making up 85.3% of accidents)
-- Fatal accidents only account for 1.3% of total accidents
-- Serious accidents only account for 13.4% of total accidents
+- The majority of accidents are _slight_, accounting for 85.3% of the total.
+- Fatal accidents constitute only 1.3% of the total.
+- Serious accidents make up 13.4% of the total.
 
 #### Vehicle
-- Regular cars are most often involved in an accident, followed by motorcycles
+- Regular cars are most frequently involved in accidents, followed by motorcycles.
 
 #### Accidents per year 
-- Accidents seem to be high during May to July for all four years
-- Most years hit a peak in accidents during November
-- Most years hit a minimum number of accidents during February
+- Accident rates are consistently high from May to July across all four years.
+- Most years see a peak in accidents in November.
+- February typically has the lowest number of accidents each year.
 
 #### Road Type
-- Most collisions occur on a single-carriageway road (492.1K)
+- Single-carriageway roads witness the highest number of collisions (492.1K).
 - The least amount of collisions occur on a slip road
 
 #### Light Condition
-- Most collisions occur during the daytime (around 75%)
+- The majority of collisions occur during daytime (approximately 75%)
 
 #### Road Condition
-- Most collisions occur on dry road conditions (447.8K)
-- The least amount of collisions occur on flooded roads (1.0K) -- but this could be a result of the fact that floods are quite rare
+- Most collisions occur on dry roads (447.8K)
+- Collisions on flooded roads are rare (1.0K), likely due to the infrequency of floods.
 
 #### Location/Area
-- Most collisions happen in a rural area
-  
+- The majority of collisions occur in rural areas, likely due to the higher population density in these areas.
+
+## Recommended Next Steps
+- Collaborate with Stakeholders (Department for Transport, Road Safety Corps, Traffic Management agencies, etc.)
+- Engage with local authorities, transport agencies, and road safety organizations to share insights and collaborate on safety initiatives.
+- Use the findings to support grant applications and funding requests for road safety projects.
+
 ## Data
 The dataset used in this project is available publicly on Kaggle: [https://www.kaggle.com/datasets/nezukokamaado/road-accident-casualties-dataset](https://www.kaggle.com/datasets/nezukokamaado/road-accident-casualties-dataset)
 
