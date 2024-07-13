@@ -1,4 +1,3 @@
-Understanding Accident Severity for Effective Road Management
 # Road Collisions Analysis (2019 - 2022)
 Road accident dashboard for years 2019 - 2022 in the UK.
    
@@ -7,6 +6,7 @@ Road accident dashboard for years 2019 - 2022 in the UK.
 </p>
 
 ## Motivation
+Understanding Accident Severity for Effective Road Management.   
 **Goal:**  Gain insights into the patterns and trends of road accidents in the UK from 2019 to 2022 to inform policy-making and improve road safety.   
 
 ## Task List
