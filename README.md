@@ -17,7 +17,7 @@ Understanding Accident Severity for Effective Road Management.
 - **Total** number of accidents
 - **Accident Severity:** Accidents and percentage of total with respect to accident severity
 - **Vehicle:** Total accidents by type of vehicle
-- **Accidents per Year:** Monthly trend showing comparison of accidents for current year and previous year
+- **Accidents per Year:** Monthly trend showing a comparison of accidents for the current year and the previous year
 - **Road Type:** accidents by road type
 - **Light Condition:** accidents by day/night
 - **Road Condition:** Distribution of total casualties by road condition
