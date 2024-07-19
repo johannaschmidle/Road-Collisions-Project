@@ -11,7 +11,7 @@ Understanding Accident Severity for Effective Road Management.
 
 ## Task List
 1. Clean Database (_Cleaned table:_ [AccidentTable.csv.zip](https://github.com/johannaschmidle/Road-Collisions-Project/blob/main/AccidentTable.csv.zip))
-2. Create Dashboard ()
+2. Create Dashboard ([AccidentDash.xlsx](https://github.com/johannaschmidle/Road-Collisions-Project/blob/main/AccidentDash.xlsx))
 
 ## Metrics and Dimensions
 - **Total** number of accidents
