@@ -10,8 +10,8 @@ Understanding Accident Severity for Effective Road Management.
 **Goal:**  Gain insights into the patterns and trends of road accidents in the UK from 2019 to 2022 to inform policy-making and improve road safety.   
 
 ## Task List
-1. Clean Database
-2. Create Dashboard
+1. Clean Database (_Cleaned table:_ [AccidentTable.csv.zip](https://github.com/johannaschmidle/Road-Collisions-Project/blob/main/AccidentTable.csv.zip))
+2. Create Dashboard ()
 
 ## Metrics and Dimensions
 - **Total** number of accidents
